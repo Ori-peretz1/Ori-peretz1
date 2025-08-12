@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ori peretz
 - 👀 I’m interested in the ComputerSicence World
-- 🌱 I’m currently learning CS degree
+- 🌱 I just graduated my bachelor degree in Cs from Ben Gurion University
 - 📫 My email for contacting:ppoorrii7@gmail.com
 - **if you have any questions about my repositories feel free to Ask😁**
 
